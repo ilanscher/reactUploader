@@ -10,7 +10,7 @@ Getting Started with Uploader App:
 install this:
 "npm i express multer cors react-toastify styled-components axios reactstrap"
 
-Next run: `npm start`
+Next run both in the same time: `npm start` and in another window run: `node server.js`
 
 This runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
