@@ -1,6 +1,6 @@
 Hello,
 
-THis aplication works with a connection of Node.js and React.
+This aplication works with a connection of Node.js and React.
 
 Upload any image (or file) and you will see it was uploaded and stored in to your "public" folder of this App. You can change the "Post" now to ant other location you want for your App.
 Good Luck!
