@@ -2,7 +2,7 @@ html {
   color: white;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url("/home/ilan/labia-form/uploads.jpg");
+  background-image: url("/uploads.jpg");
 }
 @media screen and (max-width: 800px) {
   html {
