@@ -1,3 +1,15 @@
+html {
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("/home/ilan/labia-form/src/images/uploadc.jpg");
+}
+@media screen and (max-width: 800px) {
+  html {
+    background-repeat: round;
+  }
+}
+
 .App {
   text-align: center;
 }
@@ -22,6 +34,14 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.sc-bczRLJ.fQaHdv {
+  padding: 0px;
+  bottom: 0;
+  width: 100%;
+  position: fixed;
+  max-height: 50px;
 }
 
 .App-link {
@@ -103,16 +123,16 @@ form#\# {
 }
 
 .fQaHdv {
-  background: #175619 !important;
+  background: #1aad47 !important;
 }
 
 .sc-bczRLJ.fQaHdv > h1 {
   padding-bottom: 15px;
-  padding-top: 15px;
+  margin-top: 5px;
 }
 
 header.MuiPaper-root.MuiAppBar-root.MuiAppBar-positionFixed.MuiAppBar-colorPrimary.makeStyles-header-1.mui-fixed.MuiPaper-elevation4 {
-  background: #175619 !important;
+  background: #1aad47 !important;
 }
 #\# > div.form-group.files > button,
 #root > div > div.row > div > div.displayImg,
